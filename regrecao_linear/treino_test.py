@@ -46,3 +46,6 @@ print('RMSE', np.sqrt(metrics.mean_squared_error(y_test, previsoes)))
 # fornula estatistica
 #
 # RMSE =
+
+
+print( funcao_Regrecao.predict([[5500]]))
